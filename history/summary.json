@@ -40,19 +40,19 @@
     "url": "http://18.188.61.126",
     "icon": "https://icons.duckduckgo.com/ip3/18.188.61.126.ico",
     "slug": "da-prod-site-lightsail",
-    "status": "down",
-    "uptime": "95.21%",
-    "uptimeDay": "95.21%",
-    "uptimeWeek": "95.21%",
-    "uptimeMonth": "95.21%",
-    "uptimeYear": "95.21%",
-    "time": 526,
-    "timeDay": 526,
-    "timeWeek": 526,
-    "timeMonth": 526,
-    "timeYear": 526,
+    "status": "up",
+    "uptime": "18.08%",
+    "uptimeDay": "18.08%",
+    "uptimeWeek": "18.08%",
+    "uptimeMonth": "18.08%",
+    "uptimeYear": "18.08%",
+    "time": 655,
+    "timeDay": 655,
+    "timeWeek": 655,
+    "timeMonth": 655,
+    "timeYear": 655,
     "dailyMinutesDown": {
-      "2023-11-12": 0
+      "2023-11-12": 8
     }
   }
 ]
