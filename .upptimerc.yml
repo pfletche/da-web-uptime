@@ -7,7 +7,7 @@ sites:
     url: https://droneamplified.com
   - name: DA Dev Site (lightsail)
     url: https://droneamplified-dev.com
-  - name: DA Production Site (lightsail)
+  - name: DA Prod Site (lightsail)
     url: http://18.188.61.126 
 
 status-website:
