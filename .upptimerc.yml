@@ -13,6 +13,8 @@ sites:
     url: https://thissitedoesnotexist.koj.co
   - name: DA Website
     url: https://droneamplified.com
+  - name: DA Dev Site
+    url: https://droneamplified-dev.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
