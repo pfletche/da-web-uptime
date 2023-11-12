@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 82,
-    "timeDay": 82,
-    "timeWeek": 82,
-    "timeMonth": 82,
-    "timeYear": 82,
+    "time": 85,
+    "timeDay": 85,
+    "timeWeek": 85,
+    "timeMonth": 85,
+    "timeYear": 85,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 100,
-    "timeDay": 100,
-    "timeWeek": 100,
-    "timeMonth": 100,
-    "timeYear": 100,
+    "time": 95,
+    "timeDay": 95,
+    "timeWeek": 95,
+    "timeMonth": 95,
+    "timeYear": 95,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 292,
-    "timeDay": 292,
-    "timeWeek": 292,
-    "timeMonth": 292,
-    "timeYear": 292,
+    "time": 271,
+    "timeDay": 271,
+    "timeWeek": 271,
+    "timeMonth": 271,
+    "timeYear": 271,
     "dailyMinutesDown": {}
   },
   {
@@ -69,6 +69,24 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "DA Website",
+    "url": "https://droneamplified.com",
+    "icon": "https://icons.duckduckgo.com/ip3/droneamplified.com.ico",
+    "slug": "da-website",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 469,
+    "timeDay": 469,
+    "timeWeek": 469,
+    "timeMonth": 469,
+    "timeYear": 469,
     "dailyMinutesDown": {}
   }
 ]
