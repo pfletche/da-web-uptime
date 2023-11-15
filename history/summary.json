@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 440,
-    "timeDay": 485,
+    "timeDay": 666,
     "timeWeek": 440,
     "timeMonth": 440,
     "timeYear": 440,
@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/droneamplified-dev.com.ico",
     "slug": "da-dev-site-lightsail",
     "status": "up",
-    "uptime": "62.49%",
+    "uptime": "66.91%",
     "uptimeDay": "96.67%",
-    "uptimeWeek": "62.49%",
-    "uptimeMonth": "62.49%",
-    "uptimeYear": "62.49%",
+    "uptimeWeek": "66.91%",
+    "uptimeMonth": "66.91%",
+    "uptimeYear": "66.91%",
     "time": 795,
     "timeDay": 619,
     "timeWeek": 795,
@@ -43,7 +43,7 @@
     "url": "http://18.188.61.126",
     "icon": "https://icons.duckduckgo.com/ip3/18.188.61.126.ico",
     "slug": "da-prod-site-lightsail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -54,6 +54,8 @@
     "timeWeek": 723,
     "timeMonth": 723,
     "timeYear": 723,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-15": 0
+    }
   }
 ]
