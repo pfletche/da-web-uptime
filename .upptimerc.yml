@@ -7,8 +7,6 @@ sites:
     url: https://droneamplified.com
   - name: DA Dev Site (lightsail)
     url: https://droneamplified-dev.com
-  - name: DA Prod Site (lightsail)
-    url: http://18.188.61.126 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
