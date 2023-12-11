@@ -5,8 +5,8 @@ repo: da-web-uptime # The name of this repository
 sites:
   - name: DA Website
     url: https://droneamplified.com
-  - name: DA Dev Site (lightsail)
-    url: https://droneamplified-dev.com
+  # - name: DA Dev Site (lightsail)
+  #   url: https://droneamplified-dev.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
