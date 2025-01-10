@@ -4,7 +4,7 @@
     "url": "https://droneamplified.com",
     "icon": "https://icons.duckduckgo.com/ip3/droneamplified.com.ico",
     "slug": "da-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 789,
     "timeYear": 808,
     "dailyMinutesDown": {
+      "2025-01-10": 0,
       "2024-12-19": 25,
       "2024-12-18": 26,
       "2024-12-06": 37,
