@@ -3,10 +3,14 @@ owner: pfletche # Your GitHub organization or username, where this repository li
 repo: da-web-uptime # The name of this repository
 
 sites:
-  - name: DA Website
+  - name: DA Website (lightdail)
     url: https://droneamplified.com
-  # - name: DA Dev Site (lightsail)
-  #   url: https://droneamplified-dev.com
+  - name: DA Dev Site (lightsail)
+    url: https://droneamplified-dev.com
+  - name: DA New Website (lightsail)
+    url: http://3.133.149.189/
+  - name: D.A. Guide
+    url: https://guide.droneamplified.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
