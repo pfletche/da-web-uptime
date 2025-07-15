@@ -10,7 +10,7 @@ sites:
   - name: DA New Website (lightsail)
     url: http://3.133.149.189/
   - name: D.A. Guide
-   url: https://guide.droneamplified.com/
+    url: https://guide.droneamplified.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
