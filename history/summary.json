@@ -4,19 +4,19 @@
     "url": "https://droneamplified.com",
     "icon": "https://icons.duckduckgo.com/ip3/droneamplified.com.ico",
     "slug": "da-website-lightdail",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 898,
-    "timeDay": 1483,
-    "timeWeek": 898,
-    "timeMonth": 898,
-    "timeYear": 898,
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
+    "time": 887,
+    "timeDay": 1260,
+    "timeWeek": 887,
+    "timeMonth": 887,
+    "timeYear": 887,
     "dailyMinutesDown": {
-      "2025-07-18": 0
+      "2025-07-18": 19
     }
   },
   {
