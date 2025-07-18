@@ -4,18 +4,20 @@
     "url": "https://droneamplified.com",
     "icon": "https://icons.duckduckgo.com/ip3/droneamplified.com.ico",
     "slug": "da-website-lightdail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 648,
-    "timeDay": 568,
-    "timeWeek": 648,
-    "timeMonth": 648,
-    "timeYear": 648,
-    "dailyMinutesDown": {}
+    "time": 898,
+    "timeDay": 1483,
+    "timeWeek": 898,
+    "timeMonth": 898,
+    "timeYear": 898,
+    "dailyMinutesDown": {
+      "2025-07-18": 0
+    }
   },
   {
     "name": "DA Dev Site (lightsail)",
