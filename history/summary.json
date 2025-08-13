@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/droneamplified.com.ico",
     "slug": "da-website-lightdail",
     "status": "up",
-    "uptime": "98.90%",
+    "uptime": "98.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.90%",
-    "uptimeYear": "98.90%",
-    "time": 1094,
-    "timeDay": 538,
-    "timeWeek": 610,
-    "timeMonth": 1094,
-    "timeYear": 1094,
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "98.94%",
+    "time": 1087,
+    "timeDay": 692,
+    "timeWeek": 625,
+    "timeMonth": 1087,
+    "timeYear": 1087,
     "dailyMinutesDown": {
       "2025-08-04": 123,
       "2025-08-03": 3,
@@ -40,7 +40,7 @@
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "54.69%",
+    "uptimeMonth": "56.31%",
     "uptimeYear": "0.00%",
     "time": 689,
     "timeDay": 0,
@@ -48,7 +48,8 @@
     "timeMonth": 649,
     "timeYear": 649,
     "dailyMinutesDown": {
-      "2025-08-12": 100,
+      "2025-08-13": 101,
+      "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
@@ -403,8 +404,7 @@
       "2024-08-17": 1440,
       "2024-08-16": 1440,
       "2024-08-15": 1440,
-      "2024-08-14": 1440,
-      "2024-08-13": 1440
+      "2024-08-14": 1440
     }
   },
   {
@@ -418,11 +418,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 253,
-    "timeDay": 251,
-    "timeWeek": 261,
-    "timeMonth": 253,
-    "timeYear": 253,
+    "time": 254,
+    "timeDay": 295,
+    "timeWeek": 270,
+    "timeMonth": 254,
+    "timeYear": 254,
     "dailyMinutesDown": {}
   },
   {
@@ -436,11 +436,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 313,
-    "timeDay": 343,
-    "timeWeek": 310,
-    "timeMonth": 313,
-    "timeYear": 313,
+    "time": 315,
+    "timeDay": 376,
+    "timeWeek": 325,
+    "timeMonth": 315,
+    "timeYear": 315,
     "dailyMinutesDown": {}
   }
 ]
