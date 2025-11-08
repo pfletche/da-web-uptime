@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/droneamplified.com.ico",
     "slug": "da-website-lightsail",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.95%",
-    "time": 539,
-    "timeDay": 385,
-    "timeWeek": 506,
-    "timeMonth": 546,
-    "timeYear": 539,
+    "uptimeYear": "99.96%",
+    "time": 538,
+    "timeDay": 498,
+    "timeWeek": 501,
+    "timeMonth": 545,
+    "timeYear": 538,
     "dailyMinutesDown": {
       "2025-11-04": 25,
       "2025-10-14": 15
@@ -31,10 +31,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "0.00%",
-    "time": 627,
-    "timeDay": 439,
+    "time": 626,
+    "timeDay": 510,
     "timeWeek": 523,
-    "timeMonth": 589,
+    "timeMonth": 584,
     "timeYear": 588,
     "dailyMinutesDown": {
       "2025-10-01": 45,
@@ -331,8 +331,7 @@
       "2024-11-12": 1440,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
-      "2024-11-09": 1440,
-      "2024-11-08": 1440
+      "2024-11-09": 1440
     }
   },
   {
@@ -346,11 +345,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 337,
-    "timeDay": 256,
-    "timeWeek": 398,
-    "timeMonth": 434,
-    "timeYear": 337,
+    "time": 336,
+    "timeDay": 287,
+    "timeWeek": 394,
+    "timeMonth": 426,
+    "timeYear": 336,
     "dailyMinutesDown": {}
   },
   {
@@ -364,11 +363,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 294,
-    "timeDay": 175,
-    "timeWeek": 270,
-    "timeMonth": 286,
-    "timeYear": 294,
+    "time": 293,
+    "timeDay": 209,
+    "timeWeek": 258,
+    "timeMonth": 283,
+    "timeYear": 293,
     "dailyMinutesDown": {}
   }
 ]
